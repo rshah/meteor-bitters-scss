@@ -1,0 +1,14 @@
+{
+    "name": "bitters-scss",
+    "description": "Bitters - Scaffold styles, variables and structure for Bourbon projects.",
+    "homepage": "https://github.com/rshah/meteor-bitters-scss.git",
+    "author": "Reza Fatahilah Shah",
+    "version": "0.9.3",
+    "git": "https://github.com/rshah/meteor-bitters-scss.git",
+    "packages": {
+      "scss": "",
+      "bourbon-scss": {
+        "git": "https://github.com/rshah/meteor-bourbon-scss.git"
+      }
+    }
+}
